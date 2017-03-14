@@ -7,6 +7,7 @@ public class Lib {
 
     public void metodoAlumno1(){
         System.out.println("metodo 1");
+        System.out.println("modificado por alumno 1");// alumno 1
     }
 
     public void metodoAlumno2(){
@@ -16,6 +17,8 @@ public class Lib {
     public void metodoComunitario(){
 
         System.out.println("cambio en todo");
+	// modificaciones alumno 1
+	System.out.println("Alumno 1 inserta esta sentencia");
 
 
     }
